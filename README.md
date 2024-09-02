@@ -3,7 +3,7 @@
 <div>
   <a href="https://www.linkedin.com/in/murilosegger/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "muriloo.segger@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div>
+</div><br>
 
 <div align="left">    
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=murilosegger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&nocache=3"/>
